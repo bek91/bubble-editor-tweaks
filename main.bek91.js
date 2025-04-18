@@ -12,7 +12,7 @@
 (function () {
     'use strict';
   
-    const cssURL = 'https://yourusername.github.io/bubble-editor-tweaks/styles.css';
+    const cssURL = 'https://bek91.github.io/bubble-editor-tweaks/styles.css';
   
     fetch(cssURL)
       .then((res) => res.text())
